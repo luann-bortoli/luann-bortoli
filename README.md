@@ -3,7 +3,7 @@ public class Profile {
 
     String name = "Luann Bortoli";
 
-    String role = "Software Engineering student"
+    String role = "Software Engineering student";
 
     String[] backendStack = { "Java", "Spring Boot", "MySQL" };
 

@@ -1,13 +1,9 @@
 ```java
-public class Profile {
+public class Stack {
 
-    String name = "Luann Bortoli";
+    String[] backend = { "Java", "Spring Boot", "MySQL" };
 
-    String role = "Software Engineering student";
-
-    String[] backendStack = { "Java", "Spring Boot", "MySQL" };
-
-    String[] frontendStack = { "TypeScript", "React", "HTML", "CSS" };
+    String[] frontend = { "TypeScript", "React", "HTML", "CSS" };
 
     String[] tools = { "Git", "GitHub", "Docker" };
 }

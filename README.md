@@ -1,10 +1,32 @@
 ```java
-public class Stack {
+public class Luann {
 
-    String[] backend = { "Java", "Spring Boot", "MySQL" };
+    String role = "Software Engineering Student";
 
-    String[] frontend = { "TypeScript", "React", "HTML", "CSS" };
+    String[] currentlyBuilding = {
+        "Developer Utilities",
+        "CLI Tools",
+        "Secure Backend Systems"
+    };
 
-    String[] tools = { "Git", "GitHub", "Docker" };
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "MySQL"
+    };
+
+    String[] frontend = {
+        "React",
+        "Next.js",
+        "TypeScript"
+    };
+
+    String[] interests = {
+        "Developer Tooling",
+        "Automation",
+        "Filesystem Utilities",
+        "Artificial Intelligence",
+        "Full-Stack Systems"
+    };
 }
 ```
